@@ -95,3 +95,7 @@ Review insights
 ⭐ About This Project
 
 This project is part of my Data Analytics portfolio, showcasing real-world business problem solving using data visualization and analytics techniques.
+<img width="1421" height="802" alt="Capture" src="https://github.com/user-attachments/assets/9cb1fd57-1dff-41c2-ba89-07b75134ed88" />
+<img width="1336" height="795" alt="Capture1" src="https://github.com/user-attachments/assets/84bbb723-3168-4ff2-a4a4-c1d9c768cf69" />
+
+
